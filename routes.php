@@ -8,6 +8,7 @@ return [
     '/tasks' => '../app/index.php',
     '/contact' => '../app/contact.php',
     '/about' => '../app/about.php',
+    '/users' => '../app/users.php',
 ];
 
 
