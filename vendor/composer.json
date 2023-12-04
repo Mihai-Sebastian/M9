@@ -1,0 +1,22 @@
+{
+  "name": "sebastian/prova",
+  "type": "project",
+  "autoload": {
+    "classmap": [
+      "./"
+    ],
+    "files": [
+      "framework/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "mihai sebastian",
+      "email": "mburghele@iesebre.com"
+    }
+  ],
+  "require": {
+      "vlucas/phpdotenv": "^5.5",
+      "ext-pdo": "*"
+  }
+}
